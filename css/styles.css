@@ -80,7 +80,7 @@ header a img {
 .submenu:hover i {
     transform: rotate(-180deg);
 }
-.toggle-menu button {
+.toggle-menu {
     display: none;
     z-index: 999;
     background-color: transparent;
